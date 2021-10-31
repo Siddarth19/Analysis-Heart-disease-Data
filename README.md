@@ -9,8 +9,32 @@ Heart disease is one of the biggest causes of morbidity and mortality among the 
 
 In this Data Science Project I will be applying Machine Learning techniques to classify whether a person is suffering from Heart Disease or not.
 
-Dataset
+*Dataset*
 
 The dataset used here is Heart Disease Prediction with Machine Learning set from UCI Machine Learning Repository. I have attached the csv file needed for the regression task - heart.csv The same can also be found here Dataset file: "C:\Users\siddarth r\Downloads\heart.csv"
 
-![image](https://user-images.githubusercontent.com/93424653/139567301-bf4b3691-4fc8-474a-89d2-4c486c84da04.png)
+*Input variables* :
+
+1. age
+2. sex
+3. cp
+4. trestbps
+5. chol
+6. fbs
+7. restecg
+8. thalach
+9. exang
+10. oldpeak
+11. slope
+12. ca
+13. thal
+14. target
+
+**Dependencies**
+
+1. Python
+2. Pandas
+3. matplotlib
+4. numpy
+5. scikit-learn
+
