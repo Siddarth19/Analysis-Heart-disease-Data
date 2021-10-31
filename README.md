@@ -13,3 +13,4 @@ Dataset
 
 The dataset used here is Heart Disease Prediction with Machine Learning set from UCI Machine Learning Repository. I have attached the csv file needed for the regression task - heart.csv The same can also be found here Dataset file: "C:\Users\siddarth r\Downloads\heart.csv"
 
+![image](https://user-images.githubusercontent.com/93424653/139567301-bf4b3691-4fc8-474a-89d2-4c486c84da04.png)
